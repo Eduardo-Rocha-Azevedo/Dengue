@@ -18,3 +18,11 @@ Este projeto é um site informativo dedicado à conscientização e prevenção 
    ```bash
    git clone https://github.com/seuusuario/todos-contra-a-dengue.git
    cd todos-contra-a-dengue
+
+### Instruções para Uso
+
+1. **Copie e cole** o texto acima em um novo arquivo chamado `README.md` no diretório do seu projeto.
+2. **Personalize** os campos de contato e o link do repositório conforme necessário.
+3. **Adicione informações adicionais** se necessário, como uma seção de instalação ou notas específicas sobre o projeto.
+
+Esse `README.md` fornecerá uma visão geral clara e concisa do seu projeto para qualquer pessoa que deseje entender ou contribuir com ele. Se precisar de mais alguma coisa, é só avisar!
